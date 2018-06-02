@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/predator/Documents/Project/temp/libnoise/examples/complexplanet.cpp
+fstream
+-
+noise/noise.h
+-
+noiseutils.h
+/home/predator/Documents/Project/temp/libnoise/examples/noiseutils.h
+

@@ -1,0 +1,2 @@
+/usr/bin/ar qc libnoiseutils-static.a  CMakeFiles/noiseutils-static.dir/noiseutils.cpp.o
+/usr/bin/ranlib libnoiseutils-static.a
